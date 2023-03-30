@@ -19,6 +19,7 @@ maintainer:         benjamin.guy.thomas@gmail.com
 library
     other-modules:  Section02
                   , Guards
+                  , ViewPatterns
 
     -- Modules included in this library but not exported.
     -- other-modules:
